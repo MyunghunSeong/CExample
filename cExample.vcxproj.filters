@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\입출력">
+      <UniqueIdentifier>{3189481e-6bb7-45a9-aac7-1f15d33c94c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\구조체">
+      <UniqueIdentifier>{f474848d-6e84-43ac-8230-d90d1a59b3d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\동적 할당">
+      <UniqueIdentifier>{11fae82a-74f9-4aeb-aebc-685ecaaa69bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\메크로">
+      <UniqueIdentifier>{c877111a-9abe-4925-80cf-fe56135267b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\도전 프로그램4">
+      <UniqueIdentifier>{662b13e9-bb11-4ddf-9980-2a7f5320405a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseBallGame.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Rotate90.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Example1.cpp">
+      <Filter>소스 파일\입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Example2.cpp">
+      <Filter>소스 파일\입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Example3.cpp">
+      <Filter>소스 파일\입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="Example4.cpp">
+      <Filter>소스 파일\구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="Example5.cpp">
+      <Filter>소스 파일\구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="Example6.cpp">
+      <Filter>소스 파일\구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="Example7.cpp">
+      <Filter>소스 파일\구조체</Filter>
+    </ClCompile>
+    <ClCompile Include="Example8.cpp">
+      <Filter>소스 파일\동적 할당</Filter>
+    </ClCompile>
+    <ClCompile Include="Example9.cpp">
+      <Filter>소스 파일\동적 할당</Filter>
+    </ClCompile>
+    <ClCompile Include="Example10.cpp">
+      <Filter>소스 파일\메크로</Filter>
+    </ClCompile>
+    <ClCompile Include="Example11.cpp">
+      <Filter>소스 파일\메크로</Filter>
+    </ClCompile>
+    <ClCompile Include="Example12.cpp">
+      <Filter>소스 파일\메크로</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge1.cpp">
+      <Filter>소스 파일\도전 프로그램4</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge2.cpp">
+      <Filter>소스 파일\도전 프로그램4</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge3.cpp">
+      <Filter>소스 파일\도전 프로그램4</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge4.cpp">
+      <Filter>소스 파일\도전 프로그램4</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge5.cpp">
+      <Filter>소스 파일\도전 프로그램4</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge6.cpp">
+      <Filter>소스 파일\도전 프로그램4</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

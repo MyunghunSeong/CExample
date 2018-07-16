@@ -1,0 +1,31 @@
+﻿빌드 시작: 2018-06-19 오후 4:07:10
+     1>2 노드의 "C:\Users\gns91\Documents\Visual Studio 2010\Projects\cExample\cExample.vcxproj" 프로젝트(rebuild 대상)입니다.
+     1>_PrepareForClean:
+         "x64\Debug\cExample.lastbuildstate" 파일을 삭제하고 있습니다.
+       InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "x64\Debug\cExample.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt challenge6.cpp
+         challenge6.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"x64\Debug\cExample.exe.embed.manifest.res" x64\Debug\cExample_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gns91\Documents\Visual Studio 2010\Projects\cExample\x64\Debug\cExample.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\cExample.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\gns91\Documents\Visual Studio 2010\Projects\cExample\x64\Debug\cExample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gns91\Documents\Visual Studio 2010\Projects\cExample\x64\Debug\cExample.lib" /MACHINE:X64 x64\Debug\cExample.exe.embed.manifest.res
+         x64\Debug\challenge6.obj
+         cExample.vcxproj -> C:\Users\gns91\Documents\Visual Studio 2010\Projects\cExample\x64\Debug\cExample.exe
+       Manifest:
+         "x64\Debug\cExample.exe.embed.manifest" 파일을 삭제하고 있습니다.
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"x64\Debug\cExample.exe.embed.manifest" /manifest x64\Debug\cExample.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"x64\Debug\cExample.exe.embed.manifest.res" x64\Debug\cExample_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gns91\Documents\Visual Studio 2010\Projects\cExample\x64\Debug\cExample.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\cExample.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\gns91\Documents\Visual Studio 2010\Projects\cExample\x64\Debug\cExample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gns91\Documents\Visual Studio 2010\Projects\cExample\x64\Debug\cExample.lib" /MACHINE:X64 x64\Debug\cExample.exe.embed.manifest.res
+         x64\Debug\challenge6.obj
+         cExample.vcxproj -> C:\Users\gns91\Documents\Visual Studio 2010\Projects\cExample\x64\Debug\cExample.exe
+       FinalizeBuildStatus:
+         "x64\Debug\cExample.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "x64\Debug\cExample.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\gns91\Documents\Visual Studio 2010\Projects\cExample\cExample.vcxproj" 프로젝트를 빌드했습니다(rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.74

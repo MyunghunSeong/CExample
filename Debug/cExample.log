@@ -1,0 +1,23 @@
+﻿빌드 시작: 2018-06-12 오전 9:45:36
+     1>2 노드의 "C:\Users\gns91\Documents\Visual Studio 2010\Projects\cExample\cExample.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\cExample.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gns91\Documents\Visual Studio 2010\Projects\cExample\Debug\cExample.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\cExample.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\gns91\Documents\Visual Studio 2010\Projects\cExample\Debug\cExample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gns91\Documents\Visual Studio 2010\Projects\cExample\Debug\cExample.lib" /MACHINE:X86 Debug\cExample.exe.embed.manifest.res
+         Debug\challenge4.obj
+         Debug\Example1.obj
+         Debug\Example2.obj
+         Debug\Example3.obj
+     1>Example1.obj : error LNK2005: _main이(가) challenge4.obj에 이미 정의되어 있습니다.
+     1>Example2.obj : error LNK2005: _main이(가) challenge4.obj에 이미 정의되어 있습니다.
+     1>Example3.obj : error LNK2005: _main이(가) challenge4.obj에 이미 정의되어 있습니다.
+     1>C:\Users\gns91\Documents\Visual Studio 2010\Projects\cExample\Debug\cExample.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
+     1>"C:\Users\gns91\Documents\Visual Studio 2010\Projects\cExample\cExample.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.16
